@@ -4,7 +4,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --experimental-https -p 443",
+    "dev": "next dev",
+    "devlocal": "next dev --experimental-https -p 443",
     "build": "next build",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview --local-protocol https",
     "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
