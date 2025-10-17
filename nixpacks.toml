@@ -1,2 +1,2 @@
 [start]
-cmd = 'bash'
+cmd = 'sleep infinity'
