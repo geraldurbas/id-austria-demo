@@ -1,2 +1,2 @@
 [start]
-cmd = 'npm run dev'
+cmd = 'bash'
